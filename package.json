@@ -3,12 +3,16 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "@testing-library/react-hooks": "^8.0.1",
     "@types/react": "^18.2.6",
     "@types/react-dom": "^18.2.4",
     "add": "^2.0.6",
+    "create-component-react-ts": "^1.0.43",
     "react": "^18.2.0",
     "react-brazil-map": "^1.0.1",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.1",
+    "react-test-renderer": "^18.2.0",
     "yarn": "^2.4.3"
   },
   "scripts": {
